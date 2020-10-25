@@ -26,7 +26,7 @@ echo ""
 echo -e $green"[#]> Terima kasih sudah make tools saya ... "
 sleep 1
 echo ""
-echo -e $white"[#]> Mr.Cakil Wuzz Here ... "
+echo -e $white"[#]> Benyamin  Wuzz Here ... "
 read enter
 exit
 }
